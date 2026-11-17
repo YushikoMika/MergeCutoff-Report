@@ -1,0 +1,8 @@
+date: Thứ bảy, 14 Tháng 11 năm 2026 20:21:27 +07
+Model name:                              AMD Ryzen 5 4500U with Radeon Graphics
+               total        used        free      shared  buff/cache   available
+Mem:           7,1Gi       5,3Gi       426Mi        98Mi       1,7Gi       1,8Gi
+Linux 7.3.4-1-cachyos
+openjdk version "27.0.1.0.3" 2026-10-24
+OpenJDK Runtime Environment (build 27.0.1.0.3)
+OpenJDK 64-Bit Server VM (build 27.0.1.0.3, mixed mode, sharing)
